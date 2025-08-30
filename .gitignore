@@ -1,0 +1,14 @@
+# Ignore output files
+*.csv
+*.xlsx
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Ignore virtual environment (agar banaya ho)
+venv/
+env/
+
+# Ignore dotenv file
+.env
