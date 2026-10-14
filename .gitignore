@@ -2,11 +2,14 @@
 *.csv
 *.xlsx
 
+# Keep the sample output
+!sample_output.csv
+
 # Ignore Python cache
 __pycache__/
 *.pyc
 
-# Ignore virtual environment (agar banaya ho)
+# Ignore virtual environment
 venv/
 env/
 
